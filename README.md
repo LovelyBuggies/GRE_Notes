@@ -1,2 +1,3 @@
 # GRE_Notes
-GRE exam preparation.
+
+这是我的GRE备考仓库。
