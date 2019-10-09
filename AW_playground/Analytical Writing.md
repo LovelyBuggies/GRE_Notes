@@ -19,9 +19,9 @@
 #### 中间段写法
 
 - 作者依赖的assumption是什么；
-  - Relies heavily on the assumption that, based on which, the author therefore propose that … —— 联系claim层和assumption层；
+  - Relies heavily on the assumption that ..., based on which, the author therefore propose that … —— 联系claim层和assumption层；
   - By stating (facts) rules out the possibility that … —— 联系facts 层和assumption层；
-  - Even if the assumptions mentioned above are valid, the writer's recommendation could be unnecessary due to the doubtful assumption that … —— 适用于最后一段列举一大堆不合理的assumptions
+  - Even if the assumptions mentioned above are valid, the writer's recommendation could be unnecessary due to the doubtful/dubitable assumption that … —— 适用于最后一段列举一大堆不合理的assumptions
 - 如果CFs（constrained facts）存在，assumption就会不成立；
   - Assumption is problematic because we are not informed that/nor do we know/we even have no idea that
   - We need to re-examine the assumption that … It's likely that/it's of equal possibility that ...
@@ -53,8 +53,7 @@
 #### 中间段写法
 
 - 我们现在还无法判断某一个assumption
-  - First of all, we need evidence to verify that ...
-  - Secondly, we need more evidence to ascertain whether ...
+  - First of all/Secondly, we need more evidence to ascertain/verify whether ...
   - Finally, despite the presence of all the previous evidence, an accurate evaluation of the developers' request requires additional information. Specific evidence is needed to show … 
 - 我们需要判断other CFs（evidence）来determine assumptions 是否成立
   - While the author shows that … , no evidence serves to rule out the possibility that … Specifically/for example, … —— 单个CF
@@ -86,7 +85,7 @@
 
 - 我们还没法判断某一论断/我们需要判断…/我提出的问题围绕着...论断
   - The first series of questions I am going to put forward revolve around …
-  - Witnessing …, the author further recommends … However, before reaching that conclusion, we need to know …
+  - Witnessing …, the author further proposes … However, before reaching that conclusion, we need to know …
 - CFs决定的问题
   - More specifically, I need to ask ...
   - It's still a quesition whether ...
@@ -104,4 +103,38 @@
 
 ### Alternative Explanation
 
-首段+段间关系是从facts到assumptions的几个推导过程中的问题是什么、答案影响+从assumptions推导到claim CFs+收尾段。**这个和evidence类很像就是把CFs换成了问题**。
+首段+段间关系是facts的reasoning+从reasoning推导到explanation+收尾段。
+
+#### 首段写法
+
+- 我们知道的facts
+  - In this argument, we are informed that ...
+- 尽管我承认…但我认为还有其他解释
+  - While I concede that …, I maintain that the other plausible explanations can also account for the facts presented in this argument. 
+- 我们无法判断这个解释是不是最好的或者自己就能导致这一切
+  - Howeve, with only the the current information, we are unable to decide which explanation is best. Nor is it utterly certain that one factor alone is responsible for the facts presented in the argument.
+
+#### 中间段写法
+
+- 作者的reasoning
+  - To begin with, the author claims that … due to ...
+  - The author ascribes … to ...
+  - Even if … is indeed …, it is doubtful that … is the only factor responsible. 
+- 其他reasoning
+  - While I admit that …, I also argue that ...
+  - Absence of significant information contributes to the failure to rule out the possibility that ...
+  - … may not lie in … 
+  - It would be unfair to keep blind to the possible scenarios wherein ...
+  - … could also be explained by ...
+  - … may stem from a variety of factors: ...
+- 提出挑战/我们不确定
+  - All of the aforementioned explanations pose a great challenge upon, if not utterly reverse, the proposed one in the arguement.
+  - If this is the case, the … is less responsible for …, since ...
+  - We are not confident that these explanations could rival the one proposed in the argument.
+
+#### 收尾段写法
+
+- 尽管理性认为…导致…，还有其他原因
+  - To summarize, although it is reasonable to believe that …, there several alternative explanations that could plausibly account for the facts presented in the argument.
+- 在搞清楚…之前作出的reasoning是hasty的
+  - Thus, it is unreasonable to draw hasty conclusions about … until further examination.
