@@ -13,15 +13,19 @@
 
 - 作者的预测了…提议了...；
   - In the letter, the writer recommend an initiation of …
+- *如果有大的assumption*：initiation基于assumption，这个assumption被另外两assumption支持。
+  - What underlies the recommendation is the assumption that … This assumption is further supported by the two more assumptions: … … 
 - 尽管从一些角度来看提议是beneficial 的，但是reasoning is unconvincing由于一些未被证明的assumption，如果证明是不合理的，将会severely undermine 作者的提议。
   - While this program might be beneficial to some extent, the reasoning of this argument is unconvincing due to several unsubstantiated assumptions which, if proven unwarranted, will seriously challenge the author's recommendation.
 
 #### 中间段写法
 
 - 作者依赖的assumption是什么；
-  - Relies heavily on the assumption that ..., based on which, the author therefore propose that … —— 联系claim层和assumption层；
-  - By stating (facts) rules out the possibility that … —— 联系facts 层和assumption层；
-  - Even if the assumptions mentioned above are valid, the writer's recommendation could be unnecessary due to the doubtful/dubitable assumption that … —— 适用于最后一段列举一大堆不合理的assumptions
+  - Relies heavily on the assumption that ..., based on which, the author therefore propose that … 
+  - By stating (facts) rules out the possibility that …
+  - Granted that …, we should still be cautious about the assumption that ...
+  - Even if the aforementioned assumptions remain tenable, it's worthwhile examining the soundness of another assumption that ...
+  - Even if the assumptions mentioned above are valid, the writer's recommendation could be unnecessary due to the doubtful/dubitable assumption that … 
 - 如果CFs（constrained facts）存在，assumption就会不成立；
   - Assumption is problematic because we are not informed that/nor do we know/we even have no idea that
   - We need to re-examine the assumption that … It's likely that/it's of equal possibility that ...
@@ -29,6 +33,7 @@
 - claim 被严重削弱。
   - Argument is unconvincing 
   - Therefore, s.b. might not ….
+  - Thus, we cannot readily assume that ...
 
 #### 收尾段写法
 
@@ -68,7 +73,7 @@
 - 没有提供足够的证据（*这里并没有评价性的词语评价这个argument*）
   - To sum up, the evidence cited by the developers does not provide enough conclusive information to make their request convincing.
 - 需要其他证据来加强
-  - As a result, we need additional evidence to better evaluation the argument/bolster it.
+  - As a result, we need additional evidence to better evaluate the argument/ it.
 
 ### Requiring Questions 
 
