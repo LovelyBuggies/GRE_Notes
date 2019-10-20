@@ -11,7 +11,7 @@
 
 #### 首段写法
 
-- 作者的预测了…提议了...；
+- 作者的预测了…提议了…；
   - In the letter, the writer recommend an initiation of …
 - *如果有大的assumption*：initiation基于assumption，这个assumption被另外两assumption支持。
   - What underlies the recommendation is the assumption that … This assumption is further supported by the two more assumptions: … … 
@@ -73,7 +73,7 @@
 - 没有提供足够的证据（*这里并没有评价性的词语评价这个argument*）
   - To sum up, the evidence cited by the developers does not provide enough conclusive information to make their request convincing.
 - 需要其他证据来加强
-  - As a result, we need additional evidence to better evaluate the argument it.
+  - As a result, we need additional evidence to better evaluate the argument.
 
 ### Requiring Questions 
 
