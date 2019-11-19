@@ -65,7 +65,7 @@
   - First, although …, …; Second, we need to know the reason why/whether …; Third, the evaluation of the statement concerning … not only …, but also … —— 多CF
   -  …; that is to say/in other words, whether … if the answer is positive; or else, the …
 - 这些CFs undermine/support the claim
-  - If new evidence shows that …, then it's reasonably safe to claim that …, and therefore the author's recommendation is weakened/supported. However, if new evidence discloses an opposite situation, the the proposal in the argument is lent great support to/is greatly undermined
+  - If new evidence shows that …, then it's reasonably safe to claim that …, and therefore the author's recommendation is weakened/supported. However, if new evidence discloses an opposite situation, then the proposal in the argument is lent great support to/is greatly undermined
   - If …, then ...
 
 #### 收尾段写法
